@@ -1,6 +1,6 @@
 # The Events & CO - Your Ultimate Event Planning Assistant
 
-![Eventify Logo](images/eventify-logo.png)
+![Eventify Logo](images/event_logo_1.png)
 
 Eventify is a powerful and intuitive event planning application designed to streamline the process of organizing and managing events of all types and sizes. Whether you're planning a corporate conference, a wedding, a birthday party, or any other special occasion, Eventify has you covered.
 
